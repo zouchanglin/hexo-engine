@@ -37,7 +37,7 @@ public class ArticleParseTest {
     }
 
     private boolean testParsePost() {
-        String sourcePath = "D:\\hexo\\source";
+        String sourcePath = "C:\\Users\\15291\\Desktop";
         String postPath = sourcePath + "\\_posts";
 
         File _post = new File(postPath);

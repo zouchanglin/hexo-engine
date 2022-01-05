@@ -47,6 +47,6 @@ public class CategoryServiceTest {
 
     @Test
     public void updateCategory() {
-        categoryService.updateCategory("JavaEE&Web", "JavaEE/Web");
+        categoryService.updateCategory("JavaEE/Web", "JavaEE/Web");
     }
 }
